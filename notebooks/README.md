@@ -2,5 +2,6 @@
 
 - [Naive Bayes Classifier](naive-bayes-classifier/naive-bayes-classifier.ipynb)
 - [Clustering Techniques](clustering-techniques/clustering-techniques.ipynb)
+- [Outlier Detection](outlier-detection/outlier-detection.ipynb)
 - [Support Vector Machines (SVM) VS Neural Network](support-vector-machine-vs-neural-network/support-vector-machine-vs-nerual-network.ipynb)
 - [Random Forest Classifier and Regressor](random-forest/random-forest.ipynb)

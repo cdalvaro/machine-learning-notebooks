@@ -11,6 +11,7 @@ This repository contains a series of Jupyter Notebooks with different kind of ma
 
 - [Naive Bayes Classifier](notebooks/naive-bayes-classifier/naive-bayes-classifier.ipynb)
 - [Clustering Techniques](notebooks/clustering-techniques/clustering-techniques.ipynb)
+- [Outlier Detection](notebooks/outlier-detection/outlier-detection.ipynb)
 - [Support Vector Machines (SVM) VS Neural Network](notebooks/support-vector-machine-vs-neural-network/support-vector-machine-vs-nerual-network.ipynb)
 - [Random Forest Classifier and Regressor](notebooks/random-forest/random-forest.ipynb)
 
