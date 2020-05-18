@@ -7,9 +7,10 @@
 
 This repository contains a series of Jupyter Notebooks with different kind of machine learning topics.
 
-## Notebooks:
+## Notebooks
 
 - [Naive Bayes Classifier](notebooks/naive-bayes-classifier/naive-bayes-classifier.ipynb)
+- [Clustering Techniques](notebooks/clustering-techniques/clustering-techniques.ipynb)
 
 [python_badge]: https://img.shields.io/badge/Python-3.7-3776AB?style=flat-square&logo=Python
 [python_link]: https://docs.python.org/3.7/contents.html "Python 3.7"
