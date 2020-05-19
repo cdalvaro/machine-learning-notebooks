@@ -1,4 +1,4 @@
-# Notebooks
+# General
 
 - [Naive Bayes Classifier](naive-bayes-classifier/naive-bayes-classifier.ipynb)
 - [Clustering Techniques](clustering-techniques/clustering-techniques.ipynb)
@@ -9,3 +9,4 @@
 ## Neural Networks
 
 - [Introduction to Neural Networks with TensowFlow and Keras](introduction-to-neural-networks/introduction-to-neural-networks.ipynb)
+- [Practical Aspects of Neural Networks](practical-aspects-of-neural-networks/practical-aspects-of-neural-networks.ipynb)
