@@ -13,12 +13,7 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 ### VisualStudioCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
+.vscode/
 
 ### PyCharm
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
@@ -225,4 +220,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
