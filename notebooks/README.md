@@ -13,3 +13,7 @@
 - [Introduction to Neural Networks with TensowFlow and Keras](introduction-to-neural-networks/introduction-to-neural-networks.ipynb)
 - [Practical Aspects of Neural Networks](practical-aspects-of-neural-networks/practical-aspects-of-neural-networks.ipynb)
 - [Convolutional Neural Networks (CNN)](convolutional-neural-networks/convolutional-neural-networks.ipynb)
+
+## Action models
+
+- [STRIPS](strips/strips.ipynb)

@@ -7,6 +7,8 @@
 
 This repository contains a series of Jupyter Notebooks with different kind of machine learning topics.
 
+🚧 Currently all notebooks are written in spanish but I plan to translate them to English in a near future.
+
 ## General
 
 - [Naive Bayes Classifier](notebooks/naive-bayes-classifier/naive-bayes-classifier.ipynb)
@@ -20,6 +22,10 @@ This repository contains a series of Jupyter Notebooks with different kind of ma
 - [Introduction to Neural Networks with TensowFlow and Keras](notebooks/introduction-to-neural-networks/introduction-to-neural-networks.ipynb)
 - [Practical Aspects of Neural Networks](notebooks/practical-aspects-of-neural-networks/practical-aspects-of-neural-networks.ipynb)
 - [Convolutional Neural Networks (CNN)](notebooks/convolutional-neural-networks/convolutional-neural-networks.ipynb)
+
+## Action models
+
+- [STRIPS](notebooks/strips/strips.ipynb)
 
 [python_badge]: https://img.shields.io/badge/Python-3.7-3776AB?style=flat&logo=Python
 [python_link]: https://docs.python.org/3.7/contents.html "Python 3.7"
