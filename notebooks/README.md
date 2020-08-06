@@ -17,3 +17,7 @@
 ## Action models
 
 - [STRIPS](strips/strips.ipynb)
+
+## Image Processing
+
+- [Mathematical Morphology](mathematical-morphology/mathematical-morphology.ipynb)

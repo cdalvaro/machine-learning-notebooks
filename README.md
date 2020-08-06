@@ -27,6 +27,10 @@ This repository contains a series of Jupyter Notebooks with different kind of ma
 
 - [STRIPS](notebooks/strips/strips.ipynb)
 
+## Image Processing
+
+- [Mathematical Morphology](notebooks/mathematical-morphology/mathematical-morphology.ipynb)
+
 [python_badge]: https://img.shields.io/badge/Python-3.7-3776AB?style=flat&logo=Python
 [python_link]: https://docs.python.org/3.7/contents.html "Python 3.7"
 
