@@ -7,7 +7,7 @@
 
 This repository contains a series of Jupyter Notebooks with different kind of machine learning topics.
 
-🚧 Currently all notebooks are written in spanish but I plan to translate them to English in a near future.
+🚧 Currently all notebooks are written in Spanish but I plan to translate them to English in a near future.
 
 ## General
 
@@ -31,14 +31,11 @@ This repository contains a series of Jupyter Notebooks with different kind of ma
 
 - [Mathematical Morphology](notebooks/mathematical-morphology/mathematical-morphology.ipynb)
 
-[python_badge]: https://img.shields.io/badge/Python-3.7-3776AB?style=flat&logo=Python
+[python_badge]: https://img.shields.io/badge/Python-3.7-3776AB?style=flat-square&logo=Python
 [python_link]: https://docs.python.org/3.7/contents.html "Python 3.7"
-
-[jupyter_badge]: https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=Jupyter
+[jupyter_badge]: https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=Jupyter
 [jupyter_link]: https://jupyter.org "Jupyter Notebook"
-
-[keras_badge]: https://img.shields.io/badge/Keras-2.2-D00000?style=flat&logo=Keras
+[keras_badge]: https://img.shields.io/badge/Keras-2.2-D00000?style=flat-square&logo=Keras&logoColor=D00000
 [keras_link]: https://keras.io/api/ "Keras API"
-
-[mit_badge]: https://img.shields.io/badge/License-MIT-yellow.svg?style=flat
+[mit_badge]: https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square
 [mit_license]: https://opensource.org/licenses/MIT "License: MIT"
